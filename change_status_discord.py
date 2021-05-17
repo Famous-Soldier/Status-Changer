@@ -1,5 +1,7 @@
 import requests, time
 
+# Famous Soldier | https://github.com/Famous-Soldier
+
 token = ""
 u_header = {
             'Authorization': token,
