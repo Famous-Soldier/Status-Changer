@@ -1,5 +1,5 @@
 # Status-Changer
-A python script that changes your discord status at intervals using your token
+A python script that changes your discord status (text) at intervals using your token
 
 USAGE:
 
